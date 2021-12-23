@@ -1,7 +1,7 @@
 <script>
-    import TodoItem from "$lib/todo-item.svelte"
+    import TodoItem from "$lib/todo-item.svelte";
 
-    const title = "Todo"
+    const title = "Todo";
 </script>
 
 <svelte:head>
